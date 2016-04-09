@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/omnipay",
+    "name": "xepan/omnipay",
     "type": "metapackage",
     "description": "Includes Omnipay payment processing library and all officially supported gateways",
     "keywords": [
