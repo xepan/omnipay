@@ -48,7 +48,8 @@
         "worldpay",
         "payU",
         "checkoutcom",
-        "ccavenue"
+        "ccavenue",
+        "xepanwallet"
     ],
     "homepage": "https://github.com/thephpleague/omnipay",
     "license": "MIT",
@@ -93,7 +94,8 @@
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
         "omnipay/worldpay": "~2.0",
-        "xepan/ccavenue": "dev-master"
+        "xepan/ccavenue": "dev-master",
+        "xepan/xepanwallet": "dev-master"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
