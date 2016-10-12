@@ -94,7 +94,7 @@
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
         "omnipay/worldpay": "~2.0",
-        "xepan/ccavenue": "^1.0",
+        "xepan/ccavenue": "^1.0"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
