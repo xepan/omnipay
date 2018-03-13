@@ -49,9 +49,10 @@
         "payU",
         "checkoutcom",
         "ccavenue",
+        "instamojo",
         "xepanwallet"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay",
+    "homepage": "https://github.com/xepan/omnipay-instamojo",
     "license": "MIT",
     "authors": [
         {
@@ -94,7 +95,8 @@
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
         "omnipay/worldpay": "~2.0",
-        "xepan/ccavenue": "^1.0"
+        "xepan/ccavenue": "^1.0",
+        "xepan/omnipay-instamojo":"dev-master"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
